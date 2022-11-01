@@ -1,16 +1,6 @@
-# fireflutter
+# Twitter Clone |
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ## | Projeto Twitter Clone 
+ - Obs.: Esse projeto foi focado em trazer algumas funcionabilidades do twitter, afim de replicar tanto a parte da Interface quanto do back end. Esse projeto trás recursos como curtidas, follow, unfollow, busca de usuários, criação de post, remoção, edições de perfil como foto, biografia, e nome. 
+ 
+ by: Christian Oliveira, email: chrisoliveirasilva1999@gmail.com
